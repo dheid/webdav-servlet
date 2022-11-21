@@ -1,4 +1,6 @@
-# WebDAV Servlet
+# WebDAV Servlet (unmaintained)
+
+*This repository will no longer be maintained. I recommend [Milton](https://milton.io/) instead*
 
 A Servlet that brings basic WebDAV access to any store. Only one interface (IWebdavStorage) has to
 be implemented, an example (LocalFileSystemStorage) which uses the local filesystem, is provided.
